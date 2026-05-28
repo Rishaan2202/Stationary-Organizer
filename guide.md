@@ -57,7 +57,7 @@
 <img width="568" height="587" alt="Screenshot 2026-05-28 174230" src="https://github.com/user-attachments/assets/6b5e8f45-5ead-4535-893c-b23c40044819" />
 <br>
 <br>
-<h2>Now I'll select the front plane and make the letter 'R' using the 'lines' tool and the 'circles' tool on the top after selecting 'sketch'. You can make it of your own name's initial letter. I'd then select it's are and extruse with the 'remove' thingy selected again and here's the overall output of the whole organizer!!! Well done, you did it!</h2>
+<h2>Now I'll select the front plane and make the letter 'R' using the 'lines' tool and the 'circles' tool on the top after selecting 'sketch'. You can make it of your own name's initial letter. I'd then select it's are and extruse with the 'remove' thingy selected again and here's the overall output of the whole organizer!!! Well done, you did it! You can now export the model by right clicking the 'Part Studio' below and may even use to 3d print it!!!</h2>
 <img width="500" height="487" alt="Screenshot 2026-05-28 174446" src="https://github.com/user-attachments/assets/00621cb7-f8ff-4316-af93-a1b3b55e418f" />
 <br>
 <br>
