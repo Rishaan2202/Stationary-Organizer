@@ -1,4 +1,4 @@
-# Stationary Organizer
+#Stationary Organizer
 
 <h1>Yo wassup guyz!!! Myself Rishaan and this is a quick tutorial with a motive for you to understand the very fundamentals and basics of how to make CAD! So let's start it!!!</h1>
 
@@ -25,5 +25,17 @@
 <br>
 <h2>Now let's make it 3D! slect on the extrude tool at the top left, it'd ask you to select a plane, then select the area inside the square (remember to right click and escape the rectangle mode first, or else you won't be able to select it) and then you would see something like this:</h2>
 ![Extruded Sketch](https://cdn.hackclub.com/019e6e9f-4950-75f3-b5bf-1b2031caaaed/screenshot_2026-05-28_172914.png)
+<br>
+<br>
+<h2>You can adjust the height of it on your own as you like from the left pop-up kinda box or simply using the handle.</h2>
+![Rectangle Thingy]()
+<br>
+<br>
+<h2>Now we'll repeat the same process and make a sketch on the top of this structure like this</h2>
+![Top Sketch]()
+<br>
+<br>
+<h2>Now, instead of extruding upwards, select the 'remove' option from the left pop-up which was set to 'add' as default. Now you might see that instead of going upwards, the sketch is removing the materaail downwards. Let's adjust it's height too and then we'd have a simple box with a hole!!! Congrats!</h2>
+![Box]()
 <br>
 <br>
